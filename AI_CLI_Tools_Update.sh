@@ -5,7 +5,7 @@
 # =================================================================
 
 # 로그 파일 경로 설정 (선택 사항)
-LOG_FILE="/var/log/AI_CLI_Tools_update.log"
+LOG_FILE="/var/log/AI_CLI_Tools_Update.log"
 
 echo "------------------------------------------" >> $LOG_FILE
 echo "시작 시간: $(date)" >> $LOG_FILE
