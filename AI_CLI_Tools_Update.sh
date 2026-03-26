@@ -4,6 +4,10 @@
 # [ AI CLI Tools Update Script for Ubuntu ]
 # =================================================================
 
+# nvm 로드 (root)
+export NVM_DIR="/root/.nvm"
+source $NVM_DIR/nvm.sh
+
 # 로그 파일 경로 설정 (선택 사항)
 LOG_FILE="/var/log/AI_CLI_Tools_Update.log"
 
