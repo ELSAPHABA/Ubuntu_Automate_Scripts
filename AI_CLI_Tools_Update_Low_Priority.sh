@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # =================================================================
-# [ AI CLI Tools Update Script for Ubuntu ]
+# [ AI CLI Tools Update Script for Ubuntu (Low Priority) ]
 # =================================================================
 
 # nvm 로드 (root)
